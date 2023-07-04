@@ -1,2 +1,2 @@
-**Covid Data Analysis**
+# Covid Data Analysis
 I created this project as a course assignment for CL 202 (Introduction to Data Analysis). In the first part, I have done an analysis of actual data. I have taken raw data from https://corona.help/country/india and stored it in Book.xlsx. I have performed the analysis of that data by using NumPy, pandas, matplotlib. In the latter part, I have done data analysis of the top 10 countries ranked based on total cases of covid. Then I have estimated the total number of deaths in India due to covid.
